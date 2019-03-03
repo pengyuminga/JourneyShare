@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>中国/h1>
+    <h1>中国</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HomePage',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
